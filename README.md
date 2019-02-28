@@ -27,7 +27,7 @@ This code was created with the following versions of tools:
 
 * Truffle v5.0.1 (core: 5.0.1)
 * Solidity v0.5.0 (solc-js)
-* Node v8.9.4
+* Node v10.15.1
 * Ganache v1.2.3
 
 ## Troubleshooting
